@@ -2,11 +2,11 @@ streamlit
 opencv-python
 opencv-contrib-python
 mediapipe
+cvzone
 numpy
 pandas
 matplotlib
 pillow
-cvzone
 google-generativeai
 google-api-python-client
 google-auth
